@@ -10,12 +10,12 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray">
             Hi, I'm Andrew.
             <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            websites.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Graphic Designer and Web Developer with 8+ years of Design,
-Development and Marketing experience working in-house and for agencies. When Andrew is
-not working behind a computer he enjoys gardening, urban farming and cooking.
+            Graphic Designer and Web Developer with 8+ years of Design,
+            Development and Marketing experience working in-house and for agencies. When Andrew is
+            not working behind a computer he enjoys gardening, urban farming and cooking.
           </p>
           <div className="flex justify-center">
             <a
@@ -26,7 +26,7 @@ not working behind a computer he enjoys gardening, urban farming and cooking.
             <a
               href="#skills"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              My Skillset and Proficiencies
+              Skills & Technologies
             </a>
           </div>
         </div>
@@ -34,7 +34,7 @@ not working behind a computer he enjoys gardening, urban farming and cooking.
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./about.png"
           />
         </div>
       </div>
