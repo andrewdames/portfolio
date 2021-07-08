@@ -34,6 +34,14 @@ export const projects = [
     link: "https://www.concentricag.com",
   },
   {
+    title: "Leadership Roundtable",
+    subtitle: "A Wordpress site with a SQL database built using a custom child theme with custom taxonomies and hooks.",
+    description:
+      "A custom built Vue site using Craft CMS site as a Headless SQL database built using Vue, JS and GSAP for the transitions and animations. (Unfortunately the site has not been cared for by the client so I just have this GIF showing some of the page transitions)",
+    image: "./leadership.png",
+    link: "https://leadershiproundtable.org",
+  },
+  {
     title: "Bantam Bagels",
     subtitle: "Shopify, Liquid, JS",
     description:
@@ -56,14 +64,6 @@ export const projects = [
       "A Shopify site built using a customized theme.",
     image: "./everlast.png",
     link: "https://everlastclimbing.com",
-  },
-  {
-    title: "Fund Black Businesses",
-    subtitle: "Vue, Craft Headless CMS, GSAP",
-    description:
-      "A custom built Vue site using Craft CMS site as a Headless SQL database built using Vue, JS and GSAP for the transitions and animations. (Unfortunately the site has not been cared for by the client so I just have this GIF showing some of the page transitions)",
-    image: "./fbb.gif",
-    link: "#",
   },
 ];
 
