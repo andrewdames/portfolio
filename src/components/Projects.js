@@ -14,7 +14,7 @@ export default function Projects() {
             Websites I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            With a focus on web standards, accessibility and usabilty I develop responsive websites with an eye for detail. I strive to constantly learn new tech and more efficient workflows. Below are a few examples of sites I've built using various stacks.
+            With a focus on web standards, accessibility and usabilty, I develop responsive websites with an eye for detail. I strive to constantly learn new tech and more efficient workflows. Below are a few examples of sites I've built using various stacks.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
