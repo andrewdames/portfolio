@@ -13,7 +13,7 @@ export default function Footer() {
         © Andrew Dames 2021
         </a>
         <a
-          href="mailto: a.dames09@gmail.com"
+          href="mailto: adames@andrewdames.dev"
           className="inline-flex items-center bg-gray-800 text-gray-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Email Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />

@@ -6,4 +6,20 @@
     .flex {
         height: 100%;
     }
+    .project-title {
+        font-size: 1.75em;
+        line-height: 0.8;
+    }
+
+    @media only screen and (min-width: 1280px) {
+        .project-tile {
+            min-height: 400px;
+        }
+
+        .project-desc {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
   }

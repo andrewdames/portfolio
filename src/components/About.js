@@ -13,7 +13,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             I'm Graphic Designer and Web Developer with 8+ years of Design,
             Development and Marketing experience working in-house and for agencies. When I'm is
-            not working behind a computer he enjoys gardening, urban farming and cooking.
+            not working behind a computer I enjoy gardening, urban farming and cooking.
           </p>
           <div className="flex justify-center">
             <a
