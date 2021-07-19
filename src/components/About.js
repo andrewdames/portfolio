@@ -11,7 +11,7 @@ export default function About() {
             Hi, I'm Andrew.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm Graphic Designer and Web Developer with 8+ years of Design,
+            I'm a Graphic Designer and Web Developer with 8+ years of Design,
             Development and Marketing experience working in-house and for agencies. When I'm 
             not working behind a computer I enjoy gardening, urban farming and cooking.
           </p>
